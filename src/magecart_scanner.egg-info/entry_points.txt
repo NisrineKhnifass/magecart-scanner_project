@@ -1,2 +1,0 @@
-[console_scripts]
-magecart-scanner = magecart_scanner.cli:main
